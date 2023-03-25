@@ -1,0 +1,21 @@
+{
+  "abi": [],
+  "bytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "ast": {
+    "absolutePath": "test/LendingTest.t.sol",
+    "id": 30603,
+    "exportedSymbols": {},
+    "nodeType": "SourceUnit",
+    "src": "28609:0:28",
+    "nodes": [],
+    "license": "UNLICENSED"
+  },
+  "id": 28
+}
